@@ -1,0 +1,25 @@
+# Question sample dictionary
+
+soundtrack_dic = {"The Bodyguard":"1992", "Saturday Night Fever":"1977"}
+soundtrack_dic 
+
+# Write your code below and press Shift+Enter to execute
+soundtrack_dic.keys()
+
+# Write your code below and press Shift+Enter to execute
+soundtrack_dic.values()
+
+
+# Write your code below and press Shift+Enter to execute
+album_sales_dict = {"Back in Black": "millions 50 ","Bodyguard":"millions 50 ","Thriller":"millions 65"}
+
+
+# Write your code below and press Shift+Enter to execute
+album_sales_dict['Thriller']
+
+
+# Write your code below and press Shift+Enter to execute
+album_sales_dict.keys()
+
+# Write your code below and press Shift+Enter to execute
+album_sales_dict.values()
